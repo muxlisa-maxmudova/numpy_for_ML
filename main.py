@@ -1,7 +1,10 @@
 import numpy as np
-a = np.array([1,2])
-b = np.array([3,4])
-print(a@b) #(1*3)+(2*4) = 11
+m = np.array([[1,0,1],
+              [0,2,0]])
+v = np.array([5,10,3])
+print(m.shape)
+print(v.shape)
+print(m@v)
 
 
 

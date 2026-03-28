@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d4cc45d-5839-4be7-9799-e3917d6ad79f" name="Changes" comment="slicing activity">
+    <list default="true" id="5d4cc45d-5839-4be7-9799-e3917d6ad79f" name="Changes" comment="inner product of vectors (dot product)">
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -259,7 +259,15 @@
       <option name="project" value="LOCAL" />
       <updated>1774694529241</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="inner product of vectors (dot product)">
+      <option name="closed" value="true" />
+      <created>1774694716268</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1774694716268</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -298,6 +306,7 @@
     <MESSAGE value="UNIFORM function" />
     <MESSAGE value="shuffling the array using rng object and choosing elements from the array using CHOICE method" />
     <MESSAGE value="slicing activity" />
-    <option name="LAST_COMMIT_MESSAGE" value="slicing activity" />
+    <MESSAGE value="inner product of vectors (dot product)" />
+    <option name="LAST_COMMIT_MESSAGE" value="inner product of vectors (dot product)" />
   </component>
 </project>
