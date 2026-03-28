@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d4cc45d-5839-4be7-9799-e3917d6ad79f" name="Changes" comment="what is broadcasting">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="5d4cc45d-5839-4be7-9799-e3917d6ad79f" name="Changes" comment="they are not compatible, why?">
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -172,7 +171,15 @@
       <option name="project" value="LOCAL" />
       <updated>1774677717171</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="they are not compatible, why?">
+      <option name="closed" value="true" />
+      <created>1774678509906</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1774678509906</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -200,6 +207,7 @@
     <MESSAGE value="checking which scores are above 60" />
     <MESSAGE value="assigning values to either 0 or 1" />
     <MESSAGE value="what is broadcasting" />
-    <option name="LAST_COMMIT_MESSAGE" value="what is broadcasting" />
+    <MESSAGE value="they are not compatible, why?" />
+    <option name="LAST_COMMIT_MESSAGE" value="they are not compatible, why?" />
   </component>
 </project>
