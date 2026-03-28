@@ -1,5 +1,6 @@
 import numpy as np
-# Scalar arithmetic
+# Vectorized math function
 
-array = np.array([1,2,3])
-print(array**3)
+radii = np.array([1,2,3])
+
+print(np.pi * radii**2) # fun exercise
