@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d4cc45d-5839-4be7-9799-e3917d6ad79f" name="Changes" comment="they are not compatible, why?">
+    <list default="true" id="5d4cc45d-5839-4be7-9799-e3917d6ad79f" name="Changes" comment="What do I mean by aggregating functions?">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -179,7 +180,23 @@
       <option name="project" value="LOCAL" />
       <updated>1774678509906</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="creating multiplication table using broadcasting">
+      <option name="closed" value="true" />
+      <created>1774678797416</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1774678797416</updated>
+    </task>
+    <task id="LOCAL-00016" summary="What do I mean by aggregating functions?">
+      <option name="closed" value="true" />
+      <created>1774678934686</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1774678934686</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -208,6 +225,8 @@
     <MESSAGE value="assigning values to either 0 or 1" />
     <MESSAGE value="what is broadcasting" />
     <MESSAGE value="they are not compatible, why?" />
-    <option name="LAST_COMMIT_MESSAGE" value="they are not compatible, why?" />
+    <MESSAGE value="creating multiplication table using broadcasting" />
+    <MESSAGE value="What do I mean by aggregating functions?" />
+    <option name="LAST_COMMIT_MESSAGE" value="What do I mean by aggregating functions?" />
   </component>
 </project>
