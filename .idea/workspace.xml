@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d4cc45d-5839-4be7-9799-e3917d6ad79f" name="Changes" comment="randomizing numbers through rng integers">
+    <list default="true" id="5d4cc45d-5839-4be7-9799-e3917d6ad79f" name="Changes" comment="UNIFORM function">
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -235,7 +235,15 @@
       <option name="project" value="LOCAL" />
       <updated>1774685803750</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="UNIFORM function">
+      <option name="closed" value="true" />
+      <created>1774685948634</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1774685948634</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -271,6 +279,7 @@
     <MESSAGE value="filtering through indexing" />
     <MESSAGE value="filtering using where function" />
     <MESSAGE value="randomizing numbers through rng integers" />
-    <option name="LAST_COMMIT_MESSAGE" value="randomizing numbers through rng integers" />
+    <MESSAGE value="UNIFORM function" />
+    <option name="LAST_COMMIT_MESSAGE" value="UNIFORM function" />
   </component>
 </project>
