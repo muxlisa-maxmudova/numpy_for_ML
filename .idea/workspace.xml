@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d4cc45d-5839-4be7-9799-e3917d6ad79f" name="Changes" comment="shuffling the array using rng object and choosing elements from the array using CHOICE method">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="5d4cc45d-5839-4be7-9799-e3917d6ad79f" name="Changes" comment="slicing activity">
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -252,7 +251,15 @@
       <option name="project" value="LOCAL" />
       <updated>1774686373609</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="slicing activity">
+      <option name="closed" value="true" />
+      <created>1774694529241</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1774694529241</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -290,6 +297,7 @@
     <MESSAGE value="randomizing numbers through rng integers" />
     <MESSAGE value="UNIFORM function" />
     <MESSAGE value="shuffling the array using rng object and choosing elements from the array using CHOICE method" />
-    <option name="LAST_COMMIT_MESSAGE" value="shuffling the array using rng object and choosing elements from the array using CHOICE method" />
+    <MESSAGE value="slicing activity" />
+    <option name="LAST_COMMIT_MESSAGE" value="slicing activity" />
   </component>
 </project>
