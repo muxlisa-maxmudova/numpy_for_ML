@@ -1,5 +1,6 @@
 import numpy as np
-# Element - wise arithmatic
-array1 = np.array([1,2,3])
-array2 = np.array([4,5,6])
-print(array1**array2)
+# Comparison operators
+
+scores = np.array([91, 55, 100, 73, 82, 64])
+
+print(scores < 60) # boolean => [F T F F F]
