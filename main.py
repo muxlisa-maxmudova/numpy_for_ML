@@ -1,8 +1,11 @@
 import numpy as np
-# Operations on multidimensional array:
-array = np.array([[["A", "B", "C"],["D", "E", "F"], ["G", "H", "I"]],
-                  [["J", "K", "L"],["M", "N", "O"], ["P", "Q", "R"]],
-                  [["S", "T", "U"],["V", "W", "X"], ["Y", "Z", ""]]])
-word = array[0,2,1] + array[0,0,0] + array[2,0,0] + array[0,0,0] + array[1,1,1]
+# Slicing
 
-print(word)
+array = np.array([[1,2,3,4],
+                  [5,6,7,8],
+                  [9,10,11,12],
+                  [13,14,15,16]])
+
+# array[start:end:step]
+
+print(array[:2, 2:]) #first 2 rows and 2 last columns
