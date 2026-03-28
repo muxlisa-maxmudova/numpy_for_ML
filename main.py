@@ -3,4 +3,6 @@ import numpy as np
 
 scores = np.array([91, 55, 100, 73, 82, 64])
 
-print(scores < 60) # boolean => [F T F F F]
+scores[scores<60] = 0
+scores[scores>60] = 1
+print(scores)
