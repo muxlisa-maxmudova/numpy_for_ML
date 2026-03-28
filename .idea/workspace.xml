@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d4cc45d-5839-4be7-9799-e3917d6ad79f" name="Changes" comment="adding arrays by elements">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="5d4cc45d-5839-4be7-9799-e3917d6ad79f" name="Changes" comment="assigning values to either 0 or 1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -148,7 +145,23 @@
       <option name="project" value="LOCAL" />
       <updated>1774672238343</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="checking which scores are above 60">
+      <option name="closed" value="true" />
+      <created>1774677158408</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1774677158408</updated>
+    </task>
+    <task id="LOCAL-00012" summary="assigning values to either 0 or 1">
+      <option name="closed" value="true" />
+      <created>1774677444389</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1774677444389</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -173,6 +186,8 @@
     <MESSAGE value="scalar arithmatic" />
     <MESSAGE value="calculating" />
     <MESSAGE value="adding arrays by elements" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding arrays by elements" />
+    <MESSAGE value="checking which scores are above 60" />
+    <MESSAGE value="assigning values to either 0 or 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="assigning values to either 0 or 1" />
   </component>
 </project>

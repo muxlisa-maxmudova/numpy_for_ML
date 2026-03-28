@@ -1,8 +1,15 @@
 import numpy as np
-# Comparison operators
+# Broadcasting
 
-scores = np.array([91, 55, 100, 73, 82, 64])
+# Broadcasting allows NumPy to perform operations
+# on arrays with different shapes by virtually
+# expanding dimensions so they match the larger
+# array's shape.
 
-scores[scores<60] = 0
-scores[scores>60] = 1
-print(scores)
+# The dimensions have the same size.
+# OR
+# One of the dimensions has a size of 1.
+
+
+
+
