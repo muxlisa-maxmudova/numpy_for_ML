@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d4cc45d-5839-4be7-9799-e3917d6ad79f" name="Changes" comment="summing using axis">
+    <list default="true" id="5d4cc45d-5839-4be7-9799-e3917d6ad79f" name="Changes" comment="filtering using where function">
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -211,7 +211,23 @@
       <option name="project" value="LOCAL" />
       <updated>1774684790642</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="filtering through indexing">
+      <option name="closed" value="true" />
+      <created>1774685274749</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1774685274749</updated>
+    </task>
+    <task id="LOCAL-00020" summary="filtering using where function">
+      <option name="closed" value="true" />
+      <created>1774685427115</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1774685427115</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -244,6 +260,8 @@
     <MESSAGE value="What do I mean by aggregating functions?" />
     <MESSAGE value="statistics functions" />
     <MESSAGE value="summing using axis" />
-    <option name="LAST_COMMIT_MESSAGE" value="summing using axis" />
+    <MESSAGE value="filtering through indexing" />
+    <MESSAGE value="filtering using where function" />
+    <option name="LAST_COMMIT_MESSAGE" value="filtering using where function" />
   </component>
 </project>

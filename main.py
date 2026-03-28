@@ -1,10 +1,8 @@
 import numpy as np
-# Filtering
+# Random numbers
 
-ages = np.array([[21, 17, 19, 20, 16, 30, 18, 65],
-                 [39, 22, 15, 99, 18, 19, 20, 21]])
-adults = np.where(ages >= 18, ages, 0) # retains the original shape, any element that doesn't match the condition replaced by 0
-print(adults)
+rng = np.random.default_rng(seed = 1) # same numbers appear everytime
+print(rng.integers(low =1, high = 101, size = (3, 2))) # high (second number) is exclusive so we generate numbers 1, 2, 3, 4, 5 and 6
 
 
 
