@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d4cc45d-5839-4be7-9799-e3917d6ad79f" name="Changes" comment="filtering using where function">
+    <list default="true" id="5d4cc45d-5839-4be7-9799-e3917d6ad79f" name="Changes" comment="randomizing numbers through rng integers">
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -227,7 +227,15 @@
       <option name="project" value="LOCAL" />
       <updated>1774685427115</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="randomizing numbers through rng integers">
+      <option name="closed" value="true" />
+      <created>1774685803750</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1774685803750</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -262,6 +270,7 @@
     <MESSAGE value="summing using axis" />
     <MESSAGE value="filtering through indexing" />
     <MESSAGE value="filtering using where function" />
-    <option name="LAST_COMMIT_MESSAGE" value="filtering using where function" />
+    <MESSAGE value="randomizing numbers through rng integers" />
+    <option name="LAST_COMMIT_MESSAGE" value="randomizing numbers through rng integers" />
   </component>
 </project>
